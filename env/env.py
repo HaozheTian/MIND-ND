@@ -1,7 +1,6 @@
 import os
 import numpy as np
 import igraph as ig
-import pickle as pkl
 
 from env.graph_pool import GraphPool
 from utils import plot_process, load_g
