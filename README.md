@@ -14,7 +14,7 @@
 
 &nbsp;
 
-This is the officially implementation of the network dismantling algorithm, MIND, in *Learning Network Dismantling without Handcrafted Inputs* (accepted by AAAI 2026 for oral presentation). You can find the full paper [**here**](https://arxiv.org/abs/2508.00706). If you find this repo useful, please cite us:
+This is the official implementation of the network dismantling algorithm, MIND, in *Learning Network Dismantling without Handcrafted Inputs* (accepted by AAAI 2026 for oral presentation). You can find the full paper [**here**](https://arxiv.org/abs/2508.00706). If you find this repo useful, please cite us:
 
 ```
 @article{tian2025learning,
