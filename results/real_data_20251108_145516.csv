@@ -1,0 +1,10 @@
+Type,Graph,AUC
+bio,arenas-meta,37.72810890360559
+bio,foodweb-baydry,45.0546875
+bio,foodweb-baywet,45.06770833333333
+bio,dimacs10-celegansneural,70.43434343434342
+bio,maayan-foodweb,31.974499089253186
+bio,maayan-Stelzl,61.42516608050019
+bio,maayan-figeys,63.69435760011909
+bio,moreno_propro,38.06559714795009
+bio,maayan-vidal,160.95797425258007
