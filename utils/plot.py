@@ -21,7 +21,7 @@ def plot_graph(
     c="#777777",
     layout=None, 
     removals=None, 
-    node_size=2
+    node_size=0.2
     ):
     if ax is None:
         _, ax = plt.subplots()
