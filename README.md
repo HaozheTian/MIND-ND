@@ -14,11 +14,14 @@
 This is the official implementation of the network dismantling algorithm, MIND, in *Learning Network Dismantling without Handcrafted Inputs* (accepted by AAAI 2026 for oral presentation). You can find the full paper [**here**](https://arxiv.org/abs/2508.00706). If you find this repo useful, please cite us:
 
 ```
-@article{tian2025learning,
-  title={Learning Network Dismantling without Handcrafted Inputs},
-  author={Tian, Haozhe and Ferraro, Pietro and Shorten, Robert and Jalili, Mahdi and Hamedmoghadam, Homayoun},
-  journal={arXiv preprint arXiv:2508.00706},
-  year={2025}
+@inproceedings{tian2026learning,
+  title={Learning Network Dismantling Without Handcrafted Inputs},
+  author={Tian, Haozhe and Ferraro, Pietro and Shorten, Robert Noel and Jalili, Mahdi and Hamedmoghadam, Homayoun},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={31},
+  pages={25905--25913},
+  year={2026}
 }
 ```
 
