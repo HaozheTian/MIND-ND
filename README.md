@@ -21,7 +21,7 @@ This is the **official implementation** of the MIND algorithm, presented in:
 > **Learning Network Dismantling without Handcrafted Inputs**  
 > Haozhe Tian, Pietro Ferraro, Robert Shorten, Mahdi Jalili, Homayoun Hamedmoghadam
 > *AAAI-26 Main Technical Track (Oral)*
-> [[Full Paper]]([https://arxiv.org/abs/2508.00706](https://arxiv.org/abs/2508.00706))
+> [[Full Paper]](https://arxiv.org/abs/2508.00706)
 
 MIND finds the sequence of node removals that most rapidly fragments a network into disconnected components.
 
