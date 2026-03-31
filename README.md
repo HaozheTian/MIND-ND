@@ -3,6 +3,7 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00706-b31b1b.svg)](https://arxiv.org/abs/2508.00706)
+[![Code Ocean](https://img.shields.io/badge/Code%20Ocean-Capsule-0A66C2.svg)](https://doi.org/10.24433/CO.2566016.v1)
 
 <img src="files/fig_auc_bg.svg" alt="MIND Schematic" width="800"><br>
 
@@ -23,7 +24,7 @@ This is the **official implementation** of the MIND algorithm, presented in:
 > *AAAI-26 Main Technical Track* (Oral)  
 > [[arXiv]](https://arxiv.org/abs/2508.00706)
 
-MIND finds the sequence of node removals that most rapidly fragments a network into disconnected components.
+MIND finds the sequence of node removals that most rapidly fragments a network into disconnected components. It is trained on small synthetic networks with less than 200 nodes but efficiently generalize to real networks with millions of nodes. You can run a quick, cloud-based trial of MIND via [Code Ocean](https://doi.org/10.24433/CO.2566016.v1). *(If the link does not open directly, please copy and paste https://doi.org/10.24433/CO.2566016.v1 into your browser.)*
 
 ---
 
